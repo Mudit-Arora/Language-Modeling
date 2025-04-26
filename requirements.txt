@@ -1,0 +1,10 @@
+matplotlib
+matplotlib-inline
+torch
+scikit-learn
+pandas
+nltk
+numpy
+seaborn
+argparse
+datasets
