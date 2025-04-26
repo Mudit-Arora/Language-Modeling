@@ -1,8 +1,5 @@
 # Language-Modeling
-- Language modeling is the problem of predicting the next token in a sequence given the previous N tokens.  For example:
-
-- <s> nlp 243 is the best </s>
- 0   1   2  3   4   5    6
+- Language modeling is the problem of predicting the next token in a sequence given the previous N tokens. 
  
 - Built both encoder only and decoder only transformer for unsupervised learning on the Penn Treebank (text-only) dataset.
 
